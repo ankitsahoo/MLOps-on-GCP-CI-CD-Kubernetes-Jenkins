@@ -1,6 +1,14 @@
 # MLOps-on-GCP-CI-CD-Kubernetes-Jenkins
 
-Simply StreamLine ML pipelines with kubernetes, GitLab CI, Jenkins, Prometheus, Grafana, Kubeflow &amp; MiniKube on GCP.
+**Simply StreamLine ML pipelines with kubernetes, GitLab CI, Jenkins, Prometheus, Grafana, Kubeflow &amp; MiniKube on GCP.**
+
+1) Build and manage robust continuous integration and deployment pipelines using tools like GitHub Action and Jenkins tailored for machine learning s, GitLab CI/CD.
+   
+2) Utilize containerization and orchestration tools such as Docker, Kubeflow, and Minikube to create scalable, production-ready ML systems on GCP.
+
+3) Efficiently manage and secure ML data with PostgreSQL while implementing real-time monitoring and visualization dashboards using Grafana.
+
+4) Apply best practices in scaling, resource management, and security compliance to ensure efficient and secure ML operations in cloud environments.
 
 **Technologies & Tools Used**
 
