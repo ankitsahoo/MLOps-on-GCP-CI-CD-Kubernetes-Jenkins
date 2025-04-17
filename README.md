@@ -10,7 +10,7 @@
 
 4) Apply best practices in scaling, resource management, and security compliance to ensure efficient and secure ML operations in cloud environments.
 
-**Technologies & Tools Used**
+# Technologies & Tools Used
 
 -**Experiment Tracking & Model Management:** MLFlow, Comet-ML, TensorBoard
 
@@ -28,7 +28,7 @@
 
 -**API & Web App Development:** FastAPI, Flask, ChatGPT, Postman, SwaggerUI
 
-**How These Tools & Techniques Help**
+# How These Tools & Techniques Help
 
 -**Experiment Tracking & Model Management**
   Helps in logging, comparing, and tracking different ML model experiments.
